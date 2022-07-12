@@ -1,0 +1,24 @@
+{
+  "name": "wdd_353_live_session_week_3",
+  "version": "1.0.0",
+  "description": "Dynamic Website with EJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "nodemon server"
+  },
+  "keywords": [
+    "Web",
+    "NodeJS",
+    "Frontend"
+  ],
+  "author": "Eric Clarke",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
